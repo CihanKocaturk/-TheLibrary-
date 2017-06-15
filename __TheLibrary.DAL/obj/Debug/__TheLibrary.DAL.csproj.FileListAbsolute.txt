@@ -1,0 +1,14 @@
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\__TheLibrary.DAL\obj\Debug\__TheLibrary.DAL.csprojResolveAssemblyReference.cache
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.DAL.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.DAL.pdb
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.Entity.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.Entity.pdb
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\__TheLibrary.DAL\obj\Debug\__TheLibrary.DAL.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\__TheLibrary.DAL\obj\Debug\__TheLibrary.DAL.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.DAL.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.DAL.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.Entity.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\__TheLibrary.DAL\bin\Debug\__TheLibrary.Entity.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\__TheLibrary.DAL\obj\Debug\__TheLibrary.DAL.csprojResolveAssemblyReference.cache
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\__TheLibrary.DAL\obj\Debug\__TheLibrary.DAL.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\__TheLibrary.DAL\obj\Debug\__TheLibrary.DAL.pdb

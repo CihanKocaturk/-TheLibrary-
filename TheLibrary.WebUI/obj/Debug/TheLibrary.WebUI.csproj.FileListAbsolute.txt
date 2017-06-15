@@ -1,0 +1,78 @@
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\ApplicationInsights.config
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\csc.exe
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\vbc.exe
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\TheLibrary.WebUI.dll.config
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\TheLibrary.WebUI.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\TheLibrary.WebUI.pdb
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\obj\Debug\TheLibrary.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\obj\Debug\TheLibrary.WebUI.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\obj\Debug\TheLibrary.WebUI.pdb
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.BLL.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.Entity.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.DAL.dll
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.BLL.pdb
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.Entity.pdb
+C:\Users\cihan\Documents\Visual Studio 2015\Projects\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.DAL.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\ApplicationInsights.config
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\csc.exe
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\vbc.exe
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\TheLibrary.WebUI.dll.config
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\TheLibrary.WebUI.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\TheLibrary.WebUI.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.Web.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.BLL.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.Entity.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.DAL.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.BLL.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.Entity.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.Web.xml
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\bin\__TheLibrary.DAL.pdb
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\obj\Debug\TheLibrary.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\obj\Debug\TheLibrary.WebUI.dll
+C:\Users\cihan\Desktop\Portfolyo\__TheLibrary.WinUI\TheLibrary.WebUI\obj\Debug\TheLibrary.WebUI.pdb

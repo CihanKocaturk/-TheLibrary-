@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "__TheLibrary.WinUI", "__TheLibrary.WinUI\__TheLibrary.WinUI.csproj", "{9B1EDBE6-2E3C-45CD-B572-370F9F9414D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "__TheLibrary.DAL", "__TheLibrary.DAL\__TheLibrary.DAL.csproj", "{5FAA2CE2-525E-4F2C-900D-B6FD5E375DDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "__TheLibrary.BLL", "__TheLibrary.BLL\__TheLibrary.BLL.csproj", "{B78AA4E5-0766-4B40-8B30-D747F551C3A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "__TheLibrary.Entity", "__TheLibrary.Entity\__TheLibrary.Entity.csproj", "{0DA8953E-35F9-4EEA-917F-9270CFACEE63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheLibrary.WebUI", "TheLibrary.WebUI\TheLibrary.WebUI.csproj", "{2BFB2F72-DFFE-4EC0-906B-3B8BD4FA516F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B1EDBE6-2E3C-45CD-B572-370F9F9414D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1EDBE6-2E3C-45CD-B572-370F9F9414D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1EDBE6-2E3C-45CD-B572-370F9F9414D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1EDBE6-2E3C-45CD-B572-370F9F9414D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAA2CE2-525E-4F2C-900D-B6FD5E375DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAA2CE2-525E-4F2C-900D-B6FD5E375DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAA2CE2-525E-4F2C-900D-B6FD5E375DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAA2CE2-525E-4F2C-900D-B6FD5E375DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78AA4E5-0766-4B40-8B30-D747F551C3A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78AA4E5-0766-4B40-8B30-D747F551C3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78AA4E5-0766-4B40-8B30-D747F551C3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78AA4E5-0766-4B40-8B30-D747F551C3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DA8953E-35F9-4EEA-917F-9270CFACEE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DA8953E-35F9-4EEA-917F-9270CFACEE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DA8953E-35F9-4EEA-917F-9270CFACEE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DA8953E-35F9-4EEA-917F-9270CFACEE63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFB2F72-DFFE-4EC0-906B-3B8BD4FA516F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFB2F72-DFFE-4EC0-906B-3B8BD4FA516F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFB2F72-DFFE-4EC0-906B-3B8BD4FA516F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFB2F72-DFFE-4EC0-906B-3B8BD4FA516F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cihankocaturk.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = __TheLibrary.BLL\\__TheLibrary.BLL.csproj
+		SccProjectName1 = __TheLibrary.BLL
+		SccLocalPath1 = __TheLibrary.BLL
+		SccProjectUniqueName2 = __TheLibrary.DAL\\__TheLibrary.DAL.csproj
+		SccProjectName2 = __TheLibrary.DAL
+		SccLocalPath2 = __TheLibrary.DAL
+		SccProjectUniqueName3 = __TheLibrary.Entity\\__TheLibrary.Entity.csproj
+		SccProjectName3 = __TheLibrary.Entity
+		SccLocalPath3 = __TheLibrary.Entity
+		SccProjectUniqueName4 = __TheLibrary.WinUI\\__TheLibrary.WinUI.csproj
+		SccProjectName4 = __TheLibrary.WinUI
+		SccLocalPath4 = __TheLibrary.WinUI
+		SccProjectUniqueName5 = TheLibrary.WebUI\\TheLibrary.WebUI.csproj
+		SccProjectName5 = TheLibrary.WebUI
+		SccLocalPath5 = TheLibrary.WebUI
+	EndGlobalSection
+EndGlobal

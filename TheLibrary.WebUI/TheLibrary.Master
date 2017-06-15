@@ -1,0 +1,176 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TheLibrary.master.cs" Inherits="TheLibrary.WebUI.TheLibrary" %>
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+<!--<![endif]-->
+<head runat="server">
+    <title>Kütüphane Yönetim - Forms</title>
+
+    <meta charset="utf-8" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+
+
+    <link rel="stylesheet" href="Admin/stylesheets/all.css" type="text/css" />
+
+    <!--[if gte IE 9]>
+	<link rel="stylesheet" href="stylesheets/ie9.css" type="text/css" />
+	<![endif]-->
+
+    <!--[if gte IE 8]>
+	<link rel="stylesheet" href="stylesheets/ie8.css" type="text/css" />
+	<![endif]-->
+    <script src="Admin/javascripts/all.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div id="wrapper">
+
+            <div id="header">
+                <h1><a href="Default.aspx">Kütüphane Yönetim</a></h1>
+                <a href="javascript:;" id="reveal-nav">
+                    <span class="reveal-bar"></span>
+                    <span class="reveal-bar"></span>
+                    <span class="reveal-bar"></span>
+                </a>
+            </div>
+            <!-- #header -->
+
+            <div id="sidebar">
+
+                <ul id="mainNav">
+                    <li id="navDashboard" class="nav">
+                        <span class="icon-home"></span>
+                        <a href="Default.aspx">Anasayfa</a>
+                    </li>
+
+                    <li id="navCharts" class="nav">
+                        <span class="icon-loop-alt2"></span>
+                        <a href="KitapKiralama.aspx">Kitap Kiralama</a>
+
+                        <ul class="subNav">
+                            <li><a href="KitapKiralama.aspx">Kitap Kiralama</a></li>
+                            <li><a href="KitapTeslimFormu.aspx">Kitap Teslim</a></li>
+                            <li><a href="KitapDurumRaporu.aspx">Kitapların Durumu </a></li>
+                        </ul>
+                    </li>
+
+                    <li id="navPages" class="nav">
+                        <span class="icon-document-alt-fill"></span>
+                        <a href="javascript:;">Kitap</a>
+
+                        <ul class="subNav">
+                            <li><a href="KitapEkle.aspx">Kitap Ekle</a></li>
+                            <li><a href="Kitaplar.aspx?scs=0">Kitap Listesi</a></li>
+                        </ul>
+                    </li>
+
+                    <li id="navForms" class="nav">
+                        <span class="icon-pen-alt2"></span>
+                        <a href="javascript:;">Yazar</a>
+
+                        <ul class="subNav">
+                            <li><a href="YazarKayit.aspx">Yazar Ekle</a></li>
+                            <li><a href="Yazarlar.aspx?scs=0">Yazar Listesi</a></li>
+                        </ul>
+                    </li>
+
+                    
+
+                    <li id="navTables" class="nav">
+                        <span class="icon-layers-alt"></span>
+                        <a href="tables.html">Kategori</a>
+
+                        <ul class="subNav">
+                            <li><a href="KategoriKayit.aspx">Kategori Ekle</a></li>
+                            <li><a href="Kategoriler.aspx?scs=0">Kategori Listesi </a></li>
+                        </ul>
+                    </li>
+
+                    <li id="navButtons" class="nav">
+                        <span class="icon-eye"></span>
+                        <a href="buttons.html">Yayınevi</a>
+
+                        <ul class="subNav">
+                            <li><a href="Yayinevi.aspx">Yayınevi Ekle</a></li>
+                            <li><a href="Yayinevleri.aspx?scs=0">Yayınevleri Listesi</a></li>
+                        </ul>
+                    </li>
+
+                    <li id="navInterface" class="nav">
+                        <span class="icon-list"></span>
+                        <a href="interface.html">Raflar</a>
+
+                        <ul class="subNav">
+                            <li><a href="rafKayit.aspx">Raf Ekle</a></li>
+                            <li><a href="Raflar.aspx?scs=0">Raflar Listesi</a></li>
+                        </ul>
+                    </li>
+
+                    <li id="navType" class="nav">
+                        <span class="icon-user"></span>
+                        <a href="typography.html">Üyeler</a>
+
+                        <ul class="subNav">
+                            <li><a href="UyeKayit.aspx">Üye Ekle</a></li>
+                            <li><a href="Uyeler.aspx?scs=0">Üye Listesi</a></li>
+                        </ul>
+                    </li>
+
+                    <li id="navGrid" class="nav">
+                        <span class="icon-user"></span>
+                        <a href="grids.html">Personel</a>
+
+                        <ul class="subNav">
+                            <li><a href="PersonelKayit.aspx">Personel Ekle</a></li>
+                            <li><a href="Personeller.aspx?scs=0">Personel Listesi</a></li>
+                        </ul>
+                    </li>
+
+                    <li id="navMaps" class="nav">
+                        <span class="icon-magnifying-glass"></span>
+                        <a href="GelismisArama.aspx">Gelişmiş Arama</a>
+                    </li>
+             
+                </ul>
+
+
+            </div>
+            <!-- #sidebar -->
+
+            <div id="content">
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            </div>
+            <!-- #content -->
+
+            <div id="topNav">
+                <ul>
+                    <li>
+                        <a href="#menuProfile" class="menu" id="userName" runat="server"></a>                       
+                    </li>
+                    <li>
+                        <asp:Button Text="Çıkış Yap" ID="btnLogOut" OnClick="btnLogOut_Click" runat="server" />
+                    </li>
+                </ul>
+            </div>
+            <!-- #topNav -->
+            
+        </div>
+        <div id="footer">
+            Copyright &CK; 2017, MadeBy Cihan KOCATURK.
+        </div>
+        
+    </form>
+</body>
+</html>
